@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeShorten_ver.cpp
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+
