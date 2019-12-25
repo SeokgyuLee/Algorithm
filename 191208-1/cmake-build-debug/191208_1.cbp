@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeShorten_ver.cpp">
-			<Option target="191208_1"/>
-		</Unit>
-		<Unit filename="/Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeshorten_ver3.cpp">
+		<Unit filename="/Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp">
 			<Option target="191208_1"/>
 		</Unit>
 		<Unit filename="/Users/iseoggyu/CLionProjects/191208-1/CMakeLists.txt">

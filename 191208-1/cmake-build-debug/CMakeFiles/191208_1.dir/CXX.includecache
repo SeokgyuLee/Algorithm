@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeShorten_ver.cpp
+/Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp
 iostream
 -
 string
 -
 vector
 -
-sstream
+algorithm
+-
+functional
 -
 

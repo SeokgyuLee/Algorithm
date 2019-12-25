@@ -3,4 +3,4 @@ project(191208_1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(191208_1   kakaoRecord_timeShorten_ver.cpp kakaoRecord_timeshorten_ver3.cpp)
+add_executable(191208_1    makeFailRate.cpp)

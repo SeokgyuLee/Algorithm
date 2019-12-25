@@ -123,59 +123,32 @@ depend:
 	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/build
 .PHONY : 191208_1/fast
 
-kakaoRecord_timeShorten_ver.o: kakaoRecord_timeShorten_ver.cpp.o
+makeFailRate.o: makeFailRate.cpp.o
 
-.PHONY : kakaoRecord_timeShorten_ver.o
-
-# target to build an object file
-kakaoRecord_timeShorten_ver.cpp.o:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.o
-.PHONY : kakaoRecord_timeShorten_ver.cpp.o
-
-kakaoRecord_timeShorten_ver.i: kakaoRecord_timeShorten_ver.cpp.i
-
-.PHONY : kakaoRecord_timeShorten_ver.i
-
-# target to preprocess a source file
-kakaoRecord_timeShorten_ver.cpp.i:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.i
-.PHONY : kakaoRecord_timeShorten_ver.cpp.i
-
-kakaoRecord_timeShorten_ver.s: kakaoRecord_timeShorten_ver.cpp.s
-
-.PHONY : kakaoRecord_timeShorten_ver.s
-
-# target to generate assembly for a file
-kakaoRecord_timeShorten_ver.cpp.s:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.s
-.PHONY : kakaoRecord_timeShorten_ver.cpp.s
-
-kakaoRecord_timeshorten_ver3.o: kakaoRecord_timeshorten_ver3.cpp.o
-
-.PHONY : kakaoRecord_timeshorten_ver3.o
+.PHONY : makeFailRate.o
 
 # target to build an object file
-kakaoRecord_timeshorten_ver3.cpp.o:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.o
-.PHONY : kakaoRecord_timeshorten_ver3.cpp.o
+makeFailRate.cpp.o:
+	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/makeFailRate.cpp.o
+.PHONY : makeFailRate.cpp.o
 
-kakaoRecord_timeshorten_ver3.i: kakaoRecord_timeshorten_ver3.cpp.i
+makeFailRate.i: makeFailRate.cpp.i
 
-.PHONY : kakaoRecord_timeshorten_ver3.i
+.PHONY : makeFailRate.i
 
 # target to preprocess a source file
-kakaoRecord_timeshorten_ver3.cpp.i:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.i
-.PHONY : kakaoRecord_timeshorten_ver3.cpp.i
+makeFailRate.cpp.i:
+	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/makeFailRate.cpp.i
+.PHONY : makeFailRate.cpp.i
 
-kakaoRecord_timeshorten_ver3.s: kakaoRecord_timeshorten_ver3.cpp.s
+makeFailRate.s: makeFailRate.cpp.s
 
-.PHONY : kakaoRecord_timeshorten_ver3.s
+.PHONY : makeFailRate.s
 
 # target to generate assembly for a file
-kakaoRecord_timeshorten_ver3.cpp.s:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.s
-.PHONY : kakaoRecord_timeshorten_ver3.cpp.s
+makeFailRate.cpp.s:
+	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/makeFailRate.cpp.s
+.PHONY : makeFailRate.cpp.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 191208_1"
-	@echo "... kakaoRecord_timeShorten_ver.o"
-	@echo "... kakaoRecord_timeShorten_ver.i"
-	@echo "... kakaoRecord_timeShorten_ver.s"
-	@echo "... kakaoRecord_timeshorten_ver3.o"
-	@echo "... kakaoRecord_timeshorten_ver3.i"
-	@echo "... kakaoRecord_timeshorten_ver3.s"
+	@echo "... makeFailRate.o"
+	@echo "... makeFailRate.i"
+	@echo "... makeFailRate.s"
 .PHONY : help
 
 

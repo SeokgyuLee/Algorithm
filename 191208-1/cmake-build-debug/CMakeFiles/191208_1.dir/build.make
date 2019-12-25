@@ -57,45 +57,30 @@ include CMakeFiles/191208_1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/191208_1.dir/flags.make
 
-CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.o: CMakeFiles/191208_1.dir/flags.make
-CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.o: ../kakaoRecord_timeShorten_ver.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/iseoggyu/CLionProjects/191208-1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.o -c /Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeShorten_ver.cpp
+CMakeFiles/191208_1.dir/makeFailRate.cpp.o: CMakeFiles/191208_1.dir/flags.make
+CMakeFiles/191208_1.dir/makeFailRate.cpp.o: ../makeFailRate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/iseoggyu/CLionProjects/191208-1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/191208_1.dir/makeFailRate.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/191208_1.dir/makeFailRate.cpp.o -c /Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp
 
-CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeShorten_ver.cpp > CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.i
+CMakeFiles/191208_1.dir/makeFailRate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/191208_1.dir/makeFailRate.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp > CMakeFiles/191208_1.dir/makeFailRate.cpp.i
 
-CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeShorten_ver.cpp -o CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.s
-
-CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.o: CMakeFiles/191208_1.dir/flags.make
-CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.o: ../kakaoRecord_timeshorten_ver3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/iseoggyu/CLionProjects/191208-1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.o -c /Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeshorten_ver3.cpp
-
-CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeshorten_ver3.cpp > CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.i
-
-CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/iseoggyu/CLionProjects/191208-1/kakaoRecord_timeshorten_ver3.cpp -o CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.s
+CMakeFiles/191208_1.dir/makeFailRate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/191208_1.dir/makeFailRate.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp -o CMakeFiles/191208_1.dir/makeFailRate.cpp.s
 
 # Object files for target 191208_1
 191208_1_OBJECTS = \
-"CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.o" \
-"CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.o"
+"CMakeFiles/191208_1.dir/makeFailRate.cpp.o"
 
 # External object files for target 191208_1
 191208_1_EXTERNAL_OBJECTS =
 
-191208_1: CMakeFiles/191208_1.dir/kakaoRecord_timeShorten_ver.cpp.o
-191208_1: CMakeFiles/191208_1.dir/kakaoRecord_timeshorten_ver3.cpp.o
+191208_1: CMakeFiles/191208_1.dir/makeFailRate.cpp.o
 191208_1: CMakeFiles/191208_1.dir/build.make
 191208_1: CMakeFiles/191208_1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/iseoggyu/CLionProjects/191208-1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 191208_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/iseoggyu/CLionProjects/191208-1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 191208_1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/191208_1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
