@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "191208_1"
   "191208_1.pdb"
-  "CMakeFiles/191208_1.dir/makeFailRate.cpp.o"
+  "CMakeFiles/191208_1.dir/mukbang2.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

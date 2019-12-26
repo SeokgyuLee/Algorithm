@@ -57,27 +57,27 @@ include CMakeFiles/191208_1.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/191208_1.dir/flags.make
 
-CMakeFiles/191208_1.dir/makeFailRate.cpp.o: CMakeFiles/191208_1.dir/flags.make
-CMakeFiles/191208_1.dir/makeFailRate.cpp.o: ../makeFailRate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/iseoggyu/CLionProjects/191208-1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/191208_1.dir/makeFailRate.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/191208_1.dir/makeFailRate.cpp.o -c /Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp
+CMakeFiles/191208_1.dir/mukbang2.cpp.o: CMakeFiles/191208_1.dir/flags.make
+CMakeFiles/191208_1.dir/mukbang2.cpp.o: ../mukbang2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/iseoggyu/CLionProjects/191208-1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/191208_1.dir/mukbang2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/191208_1.dir/mukbang2.cpp.o -c /Users/iseoggyu/CLionProjects/191208-1/mukbang2.cpp
 
-CMakeFiles/191208_1.dir/makeFailRate.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/191208_1.dir/makeFailRate.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp > CMakeFiles/191208_1.dir/makeFailRate.cpp.i
+CMakeFiles/191208_1.dir/mukbang2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/191208_1.dir/mukbang2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/iseoggyu/CLionProjects/191208-1/mukbang2.cpp > CMakeFiles/191208_1.dir/mukbang2.cpp.i
 
-CMakeFiles/191208_1.dir/makeFailRate.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/191208_1.dir/makeFailRate.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp -o CMakeFiles/191208_1.dir/makeFailRate.cpp.s
+CMakeFiles/191208_1.dir/mukbang2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/191208_1.dir/mukbang2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/iseoggyu/CLionProjects/191208-1/mukbang2.cpp -o CMakeFiles/191208_1.dir/mukbang2.cpp.s
 
 # Object files for target 191208_1
 191208_1_OBJECTS = \
-"CMakeFiles/191208_1.dir/makeFailRate.cpp.o"
+"CMakeFiles/191208_1.dir/mukbang2.cpp.o"
 
 # External object files for target 191208_1
 191208_1_EXTERNAL_OBJECTS =
 
-191208_1: CMakeFiles/191208_1.dir/makeFailRate.cpp.o
+191208_1: CMakeFiles/191208_1.dir/mukbang2.cpp.o
 191208_1: CMakeFiles/191208_1.dir/build.make
 191208_1: CMakeFiles/191208_1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/iseoggyu/CLionProjects/191208-1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 191208_1"

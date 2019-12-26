@@ -123,32 +123,32 @@ depend:
 	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/build
 .PHONY : 191208_1/fast
 
-makeFailRate.o: makeFailRate.cpp.o
+mukbang2.o: mukbang2.cpp.o
 
-.PHONY : makeFailRate.o
+.PHONY : mukbang2.o
 
 # target to build an object file
-makeFailRate.cpp.o:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/makeFailRate.cpp.o
-.PHONY : makeFailRate.cpp.o
+mukbang2.cpp.o:
+	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/mukbang2.cpp.o
+.PHONY : mukbang2.cpp.o
 
-makeFailRate.i: makeFailRate.cpp.i
+mukbang2.i: mukbang2.cpp.i
 
-.PHONY : makeFailRate.i
+.PHONY : mukbang2.i
 
 # target to preprocess a source file
-makeFailRate.cpp.i:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/makeFailRate.cpp.i
-.PHONY : makeFailRate.cpp.i
+mukbang2.cpp.i:
+	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/mukbang2.cpp.i
+.PHONY : mukbang2.cpp.i
 
-makeFailRate.s: makeFailRate.cpp.s
+mukbang2.s: mukbang2.cpp.s
 
-.PHONY : makeFailRate.s
+.PHONY : mukbang2.s
 
 # target to generate assembly for a file
-makeFailRate.cpp.s:
-	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/makeFailRate.cpp.s
-.PHONY : makeFailRate.cpp.s
+mukbang2.cpp.s:
+	$(MAKE) -f CMakeFiles/191208_1.dir/build.make CMakeFiles/191208_1.dir/mukbang2.cpp.s
+.PHONY : mukbang2.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 191208_1"
-	@echo "... makeFailRate.o"
-	@echo "... makeFailRate.i"
-	@echo "... makeFailRate.s"
+	@echo "... mukbang2.o"
+	@echo "... mukbang2.i"
+	@echo "... mukbang2.s"
 .PHONY : help
 
 

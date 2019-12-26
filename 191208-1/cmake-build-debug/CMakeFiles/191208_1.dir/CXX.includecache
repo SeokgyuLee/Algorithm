@@ -6,15 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/iseoggyu/CLionProjects/191208-1/makeFailRate.cpp
-iostream
--
+/Users/iseoggyu/CLionProjects/191208-1/mukbang2.cpp
 string
 -
+iostream
+-
 vector
--
-algorithm
--
-functional
 -
 
